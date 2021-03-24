@@ -20,3 +20,5 @@
 
 -¿has sacado algo de este ejercicio? 
 - En verdad no.
+
+[Prueba conc](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/prueba.svg)
