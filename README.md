@@ -16,7 +16,7 @@
 - Para guerra una esvástica. (Porque representa la guerra)
 
 -¿Has utilizado algún símbolo? ¿Cuáles?
--Si, la esvástica nazi.
+- Si, la esvástica nazi.
 
 -¿has sacado algo de este ejercicio? 
--En verdad no.
+- En verdad no.
