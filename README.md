@@ -10,10 +10,10 @@
 
 -¿Qué has hecho y por qué?
 
--Para amor un corazón. (Porque representa el amor)
--Para odio un garabato. (Porque representa el odio)
--Para paz una bandera blanca. (Porque representa la paz)
--Para guerra una esvástica. (Porque representa la guerra)
+- Para amor un corazón. (Porque representa el amor)
+- Para odio un garabato. (Porque representa el odio)
+- Para paz una bandera blanca. (Porque representa la paz)
+- Para guerra una esvástica. (Porque representa la guerra)
 
 -¿Has utilizado algún símbolo? ¿Cuáles?
 -Si, la esvástica nazi.
