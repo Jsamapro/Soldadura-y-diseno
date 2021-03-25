@@ -41,3 +41,7 @@
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/JAIME3.png)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/JAIME4.png)
+
+## Bézier
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/b%C3%A9zier.png)
