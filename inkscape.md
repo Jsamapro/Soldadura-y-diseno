@@ -17,3 +17,7 @@
 
 -¿has sacado algo de este ejercicio? 
 - En verdad no.
+
+### Ejercicios inkscape
+
+# RASTERIZAR
