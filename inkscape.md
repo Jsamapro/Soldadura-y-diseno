@@ -24,6 +24,8 @@
 
 ![!](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leonrosabonheur%20%7C%20vectorizado.jpg.svg)
 
+![imagen](https://user-images.githubusercontent.com/78345756/112475243-e1423c00-8d70-11eb-8e05-25063ab78427.png)
+
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%202.svg)
 
 ![imagen](https://user-images.githubusercontent.com/78345756/112475071-b1933400-8d70-11eb-90b2-5083411159a2.png)
