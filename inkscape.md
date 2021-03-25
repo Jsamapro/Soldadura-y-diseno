@@ -29,3 +29,11 @@
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%203.svg)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%204.svg)
+
+## Modificar relleno
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/jaime.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/jaime1.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/jaime2.png)
