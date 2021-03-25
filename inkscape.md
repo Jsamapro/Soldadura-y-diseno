@@ -24,7 +24,7 @@
 
 ![!](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leonrosabonheur%20%7C%20vectorizado.jpg.svg)
 
-![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/jaime2.png)
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%202.svg)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%203.svg)
 
