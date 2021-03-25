@@ -37,3 +37,7 @@
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/jaime1.png)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/jaime2.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/JAIME3.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/JAIME4.png)
