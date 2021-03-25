@@ -28,6 +28,10 @@
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%203.svg)
 
+![imagen](https://user-images.githubusercontent.com/78345756/112474285-b86d7700-8d6f-11eb-9b29-915f1fbac3dd.png)
+
+Para hacer este vectorizado he tenido que utilizar la opción "Trazado de línea central" 
+
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%204.svg)
 
 ## Modificar relleno
