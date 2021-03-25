@@ -26,6 +26,8 @@
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%202.svg)
 
+![imagen](https://user-images.githubusercontent.com/78345756/112475071-b1933400-8d70-11eb-90b2-5083411159a2.png)
+
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leon%203.svg)
 
 ![imagen](https://user-images.githubusercontent.com/78345756/112474285-b86d7700-8d6f-11eb-9b29-915f1fbac3dd.png)
