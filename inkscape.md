@@ -63,3 +63,9 @@ Para hacer este vectorizado he tenido que utilizar la opción "Trazado de línea
 ## Bézier
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/b%C3%A9zier.png)
+
+## Archivo corte laser
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/MT-09%20corte.svg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/DODGE%20corte.svg)
