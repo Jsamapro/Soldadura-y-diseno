@@ -26,6 +26,8 @@
 
 ## vectorizar
 
+[imagen original](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.museodelprado.es%2Fcoleccion%2Fobra-de-arte%2Fel-cid%2F19984271-9cb6-476d-8655-f012e1fec1bf&psig=AOvVaw0KriSeRk0tVktdZ0lxnzPQ&ust=1616836541560000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiviNHPze8CFQAAAAAdAAAAABAD)
+
 ![!](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/leonrosabonheur%20%7C%20vectorizado.jpg.svg)
 
 ![imagen](https://user-images.githubusercontent.com/78345756/112475243-e1423c00-8d70-11eb-8e05-25063ab78427.png)
