@@ -1,5 +1,9 @@
 # Diseño con inkscape
 
+## Índice
+
+- [Bézier](#bézier)
+
 
 ### Ejercicio de conceptos  
 
