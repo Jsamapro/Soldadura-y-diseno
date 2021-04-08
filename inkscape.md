@@ -75,3 +75,21 @@ He escogido estas imagenes porque me gustan mucho los coches (DODGE) y las motos
 Sale la imagen cortada porque no estaba bien centrada. 
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/dodge%20corte%20en%20peque%C3%B1o.svg)
+
+## Logos
+
+### Logo 1
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/se%C3%B1almetroundergraun.svg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-50-37.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-54-16.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-53-25.png)
+
+### Logo 2
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/marcachen.svg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-22-09.png)
