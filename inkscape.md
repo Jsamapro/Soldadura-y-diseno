@@ -98,6 +98,8 @@ Sale la imagen cortada porque no estaba bien centrada.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/storiboris.svg)
 
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-16-49.png)
+
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-02-40.png)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-03-11.png)
