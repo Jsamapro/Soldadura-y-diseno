@@ -1,3 +1,5 @@
+### En la clase de el dia 13/04/21 montamos y desmontamos varios pc's.
+
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210413_120804.jpg)
 Aqui justo lo he acabdo de desmontar.
 
