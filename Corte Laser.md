@@ -22,5 +22,4 @@ CAD = Computer Aided Design. Diseño asistido por ordenador.
 
 Laser = Amplificador de luz a traves de emision de radiacion estimulada.
 
-
 Nosotros en concreto en el lab tenemos: La maquina que tienes es castelldefels es de la marca Epilog, y en BCN de la marca Trotec.
