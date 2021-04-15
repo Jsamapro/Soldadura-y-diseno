@@ -23,3 +23,15 @@ CAD = Computer Aided Design. Diseño asistido por ordenador.
 Laser = Amplificador de luz a traves de emision de radiacion estimulada.
 
 Nosotros en concreto en el lab tenemos: La maquina que tienes es castelldefels es de la marca Epilog, y en BCN de la marca Trotec.
+
+Los Laseres tienen (HAZ) = Es la superficie iluminada por el laser.
+
+Converger en terminos luminicos significa dirigirse hacia el mismo punto.
+
+Punto focal hace que de 1cm se convierta en 0,01 mm.
+
+Antes de frsesar es muy importante enfocar el láser.
+
+Ángulo incidente: el angulo entre el rayo que llega y la vertical.
+
+Ángulo salida: el ángulo que forma el rayo reflejado por la normal de la superficie.
