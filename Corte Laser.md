@@ -13,3 +13,6 @@ La cama es la parte de la maquina de plasma donde se pone la pieza que se quiere
 CAM = Computer Aided Machining. 
 
 CAD = Computer Aided Design. Diseño asistido por ordenador.
+
+Laser = Amplificador de luz a traves de emision de radiacion estimulada.
+
