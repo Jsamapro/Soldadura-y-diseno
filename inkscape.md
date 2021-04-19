@@ -118,6 +118,8 @@ Sale la imagen cortada porque no estaba bien centrada.
 
 ## Corte Laser
 
+[Video del corte laser](https://youtu.be/7x22DkFOMAs)
+
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_100757.jpg)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_095508.jpg)
