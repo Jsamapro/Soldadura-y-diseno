@@ -115,3 +115,23 @@ Sale la imagen cortada porque no estaba bien centrada.
 
 
 [Corte laser apuntes](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Corte%20Laser.md)
+
+## Corte Laser
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_100757.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_095508.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094823.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094729.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094625.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094534.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094530.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094510.jpg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
