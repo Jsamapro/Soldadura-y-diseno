@@ -113,10 +113,19 @@ Sale la imagen cortada porque no estaba bien centrada.
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-11-18.png)
 
 
+## Corte Laser
 
 [Corte laser apuntes](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Corte%20Laser.md)
 
-## Corte Laser
+### Diseño inicial para cortar con láser:
+
+##### ¿Qwé imagen he escogido y porque?
+ He escogido estas imagenes porque me gustan mucho los coches (DODGE) y las motos (MT-09).
+ 
+##### ¿Que caracteristicas tiene la imagen?
+ Tiene k estar en blanco y negro. Tiene que tener una linea de corte de color rojo y por ultimo tiene k estar la imagen en formato 
+
+
 
 [Video del corte laser](https://youtu.be/7x22DkFOMAs)
 
