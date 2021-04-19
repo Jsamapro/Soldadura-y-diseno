@@ -144,3 +144,8 @@ Diferentes tipos de fresas y brocas para usar con la fresadora. Como en la image
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
 Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
+
+## Tipografia
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Letras%20concns.svg)
+El tipo de letra se llama Street Ruler y la he sacada de la pagina web llamada dafont.com
