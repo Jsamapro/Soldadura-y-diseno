@@ -121,19 +121,26 @@ Sale la imagen cortada porque no estaba bien centrada.
 [Video del corte laser](https://youtu.be/7x22DkFOMAs)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_100757.jpg)
+Aqui se pude ver el archivo ya hecho y cortado.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_095508.jpg)
+Aqui hay unos cuantos ejemplos de lo que se puede hacer con diferentes materiales y diferentes dibujos.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094823.jpg)
+Esto es un compresor de aire. Que lo k hace es mover el aire forzosamente desde la maquina laser hasta el BOFA.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094729.jpg)
+Aqui se ven los controles basicos de la fresadora de la imagne siguiente.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094625.jpg)
+Una fresadora grande.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094534.jpg)
+Diferentes tipos de fresas y brocas para usar con la fresadora. Como en la imagen siguiente.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094530.jpg)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094510.jpg)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
+Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
