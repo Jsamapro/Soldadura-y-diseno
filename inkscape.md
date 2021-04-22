@@ -108,7 +108,7 @@ Sale la imagen cortada porque no estaba bien centrada.
 
 ## Fresado
 
-[](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/simbolo%20dodge%20fresdora%20bien%20hecho.png.rml)
+[Archivo del dibujo](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/simbolo%20dodge%20fresdora%20bien%20hecho.png.rml)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2009-51-54.png)
 
