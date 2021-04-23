@@ -64,17 +64,6 @@ Para hacer este vectorizado he tenido que utilizar la opción "Trazado de línea
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/b%C3%A9zier.png)
 
-## Archivo corte laser
-
-He escogido estas imagenes porque me gustan mucho los coches (DODGE) y las motos (MT-09)
-
-![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/MT-09%20corte.svg)
-
-![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/DODGE%20corte.svg)  
-
-Sale la imagen cortada porque no estaba bien centrada. 
-
-![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/dodge%20corte%20en%20peque%C3%B1o.svg)
 
 ## Logos
 
