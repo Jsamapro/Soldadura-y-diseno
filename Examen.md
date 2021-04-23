@@ -32,7 +32,8 @@ Aqui la imagen en svg.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/problema%203.svg)
 
-
+Aqui he escrito mi nombre con bezier.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/problema%203.png)
 
+La misma imagen en png
