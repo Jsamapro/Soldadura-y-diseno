@@ -14,3 +14,6 @@
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/probelam%202%20SVG.svg)
 
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/problema%203.svg)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/problema%203.png)
