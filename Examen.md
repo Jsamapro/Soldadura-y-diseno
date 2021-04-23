@@ -9,3 +9,8 @@
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/imagen%20en%20png.png)
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/imagen%20en%20png%20100%20pixeles.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/problema%202.png)
+
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/probelam%202%20SVG.svg)
+
